@@ -11428,7 +11428,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Suspected Fraud","Verdacht van fraude",module,Magento_Sales
 "Payment Review","Betalingscontrole",module,Magento_Sales
 "New","Nieuw",module,Magento_Sales
-"This product is out of stock.","This product is out of stock.",module,Magento_Sales
+"This product is out of stock.","Dit product is niet op voorraad.",module,Magento_Sales
 "Product doesn't exist","Product doesn't exist",module,Magento_Sales
 "test message","testbericht",module,Magento_Sales
 "Email has not been sent","E-mail is niet verzonden",module,Magento_Sales
@@ -15313,3 +15313,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_CustomerGraphQl
 "Could not update the product with SKU %sku: %message","Kan het product niet updaten met SKU %sku: %message",module,Magento_QuoteGraphQl
 "Unable to place order: %message","Kan bestelling niet plaatsen: %message"
+"This product is out of stock.","Dit product is niet op voorraad."
