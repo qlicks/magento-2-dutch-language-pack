@@ -11383,8 +11383,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 """Creditmemo Document Validation Error(s):\n"" .","""Creditfactuur Document validatie fout(en): \n"".",module,Magento_Sales
 "Could not save a Creditmemo, see error log for details","Opslaan van de creditfactuur was niet mogelijk, bekijk foutlog voor meer informatie",module,Magento_Sales
 "Cannot find order number ""%1"" in store ""%2""","Cannot find order number ""%1"" in store ""%2""",module,Magento_Sales
-"Reorders are not allowed.","Reorders are not allowed.",module,Magento_Sales
-"Could not find a product with ID ""%1""","Could not find a product with ID ""%1""",module,Magento_Sales
+"Reorders are not allowed.","Nabestellingen zijn niet toegestaan.",module,Magento_Sales
+"Could not find a product with ID ""%1""","Kon geen product met ID vinden ""%1""",module,Magento_Sales
 "Could not add the product with SKU ""%1"" to the shopping cart: %2","Could not add the product with SKU ""%1"" to the shopping cart: %2",module,Magento_Sales
 "Could not add the product with SKU ""%1"" to the shopping cart","Could not add the product with SKU ""%1"" to the shopping cart",module,Magento_Sales
 "We cannot determine the field name.","We kunnen de naam van het veld niet bepalen.",module,Magento_Sales
